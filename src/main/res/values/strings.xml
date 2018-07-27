@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">نهضت</string>
+    <string name="navigation_drawer_open">باز کردن</string>
+    <string name="navigation_drawer_close">بستن</string>
+    <string name="nav_header_title">آینده سازان</string>
+    <string name="nav_header_subtitle">ayandehsazan.org</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="title_activity_login">ورود</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ایمیل</string>
+    <string name="username">نام کاربری</string>
+    <string name="prompt_password">رمز</string>
+    <string name="action_sign_in">ورود</string>
+    <string name="action_sign_in_short">ورود</string>
+    <string name="error_invalid_email">ایمیل نامعتبر</string>
+    <string name="error_invalid_password">پسورد ضعیف است</string>
+    <string name="error_incorrect_password">پسورد اشتباه است</string>
+    <string name="error_field_required">این مقدار ضروری است</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
